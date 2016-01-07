@@ -1,0 +1,9 @@
+T:\Documents\Visual Studio 2013\Projects\DnD Point Buy\DnD Point Buy\bin\Debug\DnD Point Buy.exe.config
+T:\Documents\Visual Studio 2013\Projects\DnD Point Buy\DnD Point Buy\bin\Debug\DnD Point Buy.exe
+T:\Documents\Visual Studio 2013\Projects\DnD Point Buy\DnD Point Buy\bin\Debug\DnD Point Buy.pdb
+T:\Documents\Visual Studio 2013\Projects\DnD Point Buy\DnD Point Buy\obj\Debug\DnD Point Buy.csprojResolveAssemblyReference.cache
+T:\Documents\Visual Studio 2013\Projects\DnD Point Buy\DnD Point Buy\obj\Debug\DnD_Point_Buy.Form1.resources
+T:\Documents\Visual Studio 2013\Projects\DnD Point Buy\DnD Point Buy\obj\Debug\DnD_Point_Buy.Properties.Resources.resources
+T:\Documents\Visual Studio 2013\Projects\DnD Point Buy\DnD Point Buy\obj\Debug\DnD Point Buy.csproj.GenerateResource.Cache
+T:\Documents\Visual Studio 2013\Projects\DnD Point Buy\DnD Point Buy\obj\Debug\DnD Point Buy.exe
+T:\Documents\Visual Studio 2013\Projects\DnD Point Buy\DnD Point Buy\obj\Debug\DnD Point Buy.pdb

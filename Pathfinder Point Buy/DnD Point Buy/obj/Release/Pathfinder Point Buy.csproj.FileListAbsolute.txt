@@ -1,0 +1,8 @@
+T:\Documents\Visual Studio 2013\Projects\Pathfinder Point Buy\DnD Point Buy\bin\Release\Pathfinder Point Buy.exe.config
+T:\Documents\Visual Studio 2013\Projects\Pathfinder Point Buy\DnD Point Buy\bin\Release\Pathfinder Point Buy.exe
+T:\Documents\Visual Studio 2013\Projects\Pathfinder Point Buy\DnD Point Buy\bin\Release\Pathfinder Point Buy.pdb
+T:\Documents\Visual Studio 2013\Projects\Pathfinder Point Buy\DnD Point Buy\obj\Release\DnD_Point_Buy.Form1.resources
+T:\Documents\Visual Studio 2013\Projects\Pathfinder Point Buy\DnD Point Buy\obj\Release\Pathfinder_Point_Buy.Properties.Resources.resources
+T:\Documents\Visual Studio 2013\Projects\Pathfinder Point Buy\DnD Point Buy\obj\Release\Pathfinder Point Buy.csproj.GenerateResource.Cache
+T:\Documents\Visual Studio 2013\Projects\Pathfinder Point Buy\DnD Point Buy\obj\Release\Pathfinder Point Buy.exe
+T:\Documents\Visual Studio 2013\Projects\Pathfinder Point Buy\DnD Point Buy\obj\Release\Pathfinder Point Buy.pdb
